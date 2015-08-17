@@ -1,0 +1,8 @@
+load(7,1);
+load(8,1);
+load(23,17);
+load(24,18);
+[READY_LIST + 0] = 0;
+load(25,21);
+load(26,22);
+load(27,23);
